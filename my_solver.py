@@ -358,7 +358,8 @@ def solve_2(initial, goal):
         - otherwise return the sequence of actions to go from state
         'initial' to state 'goal'
     
-    '''
+
+'''
 
     print('\n++  busy searching in solve_2() ...  ++\n')
     raise NotImplementedError
@@ -410,5 +411,8 @@ def solve_4(initial, goal):
 
     
 if __name__ == '__main__':
+    # print_the_team()
+    # initial, goal=Assembly_problem_1(AssemblyProblem)
+    # solve_1(initial,goal)
     pass
     
